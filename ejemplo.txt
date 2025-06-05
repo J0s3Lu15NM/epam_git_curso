@@ -15,3 +15,7 @@ Username and email settings:
      git config --global user.name “Vitali Shulha“
 
      git config --global user.email “vitali_Shulha@epam.com"
+
+******************************************
+* It will be add the repo update process * 
+******************************************
