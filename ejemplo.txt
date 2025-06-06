@@ -19,3 +19,7 @@ Username and email settings:
 ******************************************
 * It will be add the repo update process * 
 ******************************************
+
+******************************************
+* Se agrega otro bloque de  comentarios  * 
+******************************************
