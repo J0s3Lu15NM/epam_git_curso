@@ -24,7 +24,3 @@ Username and email settings:
 * Se agrega otro bloque de  comentarios  * 
 ******************************************
  ---------------------------------------
- 
-  ## Análisis de tu Currículum Vitae para un Puesto en TI
-
-He analizado tu currículum vitae y, en mi opinión, presentas una base sólida y una trayectoria extensa que podría ser atractiva para ciertos puestos en el sector de Tecnologías de la Información (TI). A continuación, te presento un desglose de los puntos fuertes y algunas consideraciones:
